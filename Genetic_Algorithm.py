@@ -9,5 +9,9 @@ crossOverRate = 0.8
 mutationRate = 1/ukuranKromosom
 elite_count = 1
 
-#Fungsi
+#Inisialisasi populasi
+
+#Decode kromosom
+
+
 
