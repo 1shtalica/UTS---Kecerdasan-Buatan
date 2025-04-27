@@ -4,7 +4,7 @@ import random
 # Desain GA
 ukuranPopulasi = 100
 ukuranKromosom = 32
-maxGenerasi = 100
+maxGenerasi = 200
 crossOverRate = 0.8
 mutationRate = 1 / ukuranKromosom
 elite_count = 1
